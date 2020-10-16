@@ -1,3 +1,5 @@
+/*Base*/
+
 :root {
     --vermelho: #E50914;
     --preto: #141414;
@@ -12,7 +14,10 @@
 body {
     background: var(--preto);
     font-family: 'Times New Roman', Times, serif;
+    color: white;
 }
+
+/*Menu*/
 
 header .container {
     display: flex;
@@ -36,4 +41,27 @@ header nav a {
 
 header nav a:hover {
     color: #ffffff;
+}
+
+/*Filme principal*/
+
+.filme-principal {
+    font-size: 16px;
+    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url('../img/oitnb-bg.jpg');
+    background-size: cover;
+    background-position: center;
+
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.filme-principal .titulo {
+    font-size: 30px;
+}
+
+.filme-principal .descricao {
+    margin-bottom: 40px;
 }
