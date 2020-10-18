@@ -9,6 +9,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
 }
 
 body {
@@ -84,7 +85,6 @@ header nav a:hover {
     padding: 15px 30px;
     margin-right: 15px;
     font-size: 12px;
-    cursor: pointer;
     transition: .3s ease-in all;
 }
 
@@ -97,12 +97,21 @@ header nav a:hover {
     margin-right: 5px;
 }
 
+/*Carrossel de filmes*/
+
+.carrossel-filmes {
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.carrossel-filmes header {
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
 .box-filme {
     height: 100%;
     width: 100%;
     display: block;
-}
-
-.carrossel-filmes {
-    margin-top: 5px;
 }

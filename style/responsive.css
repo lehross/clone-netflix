@@ -9,6 +9,11 @@
         width: 190px;
         height: 60px;
     }
+
+    .carrossel-filmes {
+        margin-right: 5px;
+        margin-left: 5px;
+    }
 }
 
 @media screen and (min-width: 1000px) {
