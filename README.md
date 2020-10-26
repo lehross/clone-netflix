@@ -5,7 +5,7 @@ Projeto da plataforma <b>Digital Innovation One</b>.
 ## Tasks futuras
 - [x] Linkar botões aos trailers
 - [x] Linkar botões às informações
-- [ ] Ajustar botões em drop down para telas menores
+- [x] Ajustar botões em drop down para telas menores
 - [x] Mostrar categorias em cima dos carrosséis
 - [ ] Carrossel nativo (?)
 - [ ] Adicionar footer
