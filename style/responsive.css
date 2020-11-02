@@ -1,3 +1,19 @@
+@media screen and (max-width: 400px) {
+    .botao {
+        font-size: 10px;
+    }
+
+    .footer-container {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .botao {
+        padding: 10px 5px;
+    }
+}
+
 @media screen and (max-width: 700px) {
     header .container {
         display: flex;
@@ -12,6 +28,10 @@
     .carrossel-filmes {
         margin-right: 5px;
         margin-left: 5px;
+    }
+
+    .ajuda ul {
+        grid-template-columns: repeat(2, 1fr);
     }
 }
 
@@ -39,6 +59,10 @@
 
     nav .menu {
         display: none;
+    }
+
+    .footer-container {
+        width: 95vw;
     }
 }
 
