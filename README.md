@@ -8,5 +8,5 @@ Projeto da plataforma <b>Digital Innovation One</b>.
 - [x] Ajustar botões em drop down para telas menores
 - [x] Mostrar categorias em cima dos carrosséis
 - [ ] Carrossel nativo (?)
-- [ ] Adicionar footer
+- [x] Adicionar footer
 - [ ] Página de exibição por categoria (série, filme, doc, anime)
