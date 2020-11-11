@@ -1,0 +1,34 @@
+{
+    "series": [
+        {
+            "titulo": "Orange is the new black",
+            "trailer": "https://www.youtube.com/watch?v=vY0qzXi5oJg",
+            "info": "https://thetvdb.com/series/orange-is-the-new-black",
+            "imagem": "./img/mini1.jpg",
+            "categoria": "serie"
+        },
+        {
+            "titulo": "Teste serie",
+            "trailer": "https://www.youtube.com/watch?v=vY0qzXi5oJg",
+            "info": "https://thetvdb.com/series/orange-is-the-new-black",
+            "imagem": "./img/mini2.jpg",
+            "categoria": "serie"
+        }
+    ],
+    "filmes": [
+        {
+            "titulo": "Orange is the new black",
+            "trailer": "https://www.youtube.com/watch?v=vY0qzXi5oJg",
+            "info": "https://thetvdb.com/series/orange-is-the-new-black",
+            "imagem": "./img/mini3.jpg",
+            "categoria": "serie"
+        },
+        {
+            "titulo": "Teste serie",
+            "trailer": "https://www.youtube.com/watch?v=vY0qzXi5oJg",
+            "info": "https://thetvdb.com/series/orange-is-the-new-black",
+            "imagem": "./img/mini4.jpg",
+            "categoria": "serie"
+        }
+    ]
+}
